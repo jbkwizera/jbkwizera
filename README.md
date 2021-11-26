@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jbkwizera
-- 👀 I’m interested in embedded AI
+- 👀 I’m interested in SWE, Data Science, and AI
 - 🌱 I’m currently learning applied machine learning
 - 💞️ I’m looking to collaborate on entrepreneurship ideas [particularly in tech]
 - 📫 How to reach me jeanbaptistekwi@gmail.com
